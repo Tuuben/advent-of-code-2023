@@ -167,7 +167,5 @@ func main() {
 
 	fmt.Println("Value col", valueCollection)
 	totalSum := parseCollection(valueCollection)
-	//fmt.Println("Position collection: ", positionCollection)
-	//fmt.Println("Value collection: ", valueCollection)
 	fmt.Println("\n\nTotal sum: ", totalSum)
 }
